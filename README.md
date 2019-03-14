@@ -20,10 +20,14 @@ Id             Acronym                  Sex                 Age
 
 Data Acquired System:
 The data acquired from EEG,ECG and GSR signals by using Biosami Active 2 system.
+
 Electrodes Palcement:
+
 The EEG signals were captured from left and right frontal, central, anterior temporal and parietal regions
 (F3, F4, C3, C4,T3, T4, P3, P4) positions according to the 10-20 system and referenced to Cz.
+
 Files Discreption:
+
 Two different files S01_TOH_5B.bdf and S01_TOH_4A.bdf means subject1 was played 5 disc (TOH) and after that he was palyed 4 disc (TOH).
 Analyzing the signal EDF browser
 
